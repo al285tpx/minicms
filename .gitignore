@@ -26,10 +26,10 @@ login.php
 # НЕ БУДУТ проигнорированы файлы и папки /prod/images/user.jpg
 # Игнорирование всех файлов и папок в ЛЮБЫХ директориях с указанным именем
 # Например /images/user.jpg, /core/images/user.jpg
-images/*
-/dopolnitelno/*
-/ishodniki/*
-/style/*
+/images/
+/dopolnitelno/
+/ishodniki/
+/style/
 
 /.idea/*
 /_linux/*
